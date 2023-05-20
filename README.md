@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍🏼 Estoy actualmente trabajando en una empresa agrícola desarrollando bases de datos en Claris Filemaker.<br>📙Actualmente me encuentro aprendiendo NestJs, TypeScript y Mysql<br>⚙ Estoy desarrollando diversas API-REST para poner en practica lo aprendido y poder desempeñarme como backend
+✍🏼 Estoy actualmente trabajando en una empresa agrícola desarrollando bases de datos en Claris Filemaker.<br>📙Actualmente me encuentro aprendiendo NestJs, TypeScript y Mysql<br>⚙ Estoy desarrollando diversas API-REST para poner en practica lo aprendido y poder desempeñarme como backend.<br>📧 Me puedes contactar en jazziel.puente.v@gmail.com
 
 
 ## 🌐 Socials:
